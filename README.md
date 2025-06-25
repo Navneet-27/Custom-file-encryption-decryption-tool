@@ -1,4 +1,4 @@
-2. Custom File Encryption/Decryption Tool
+4. Custom File Encryption/Decryption Tool
 
 🔒 Secure File Encryption/Decryption Tool (AES-256)
 A command-line utility in Python for advanced file encryption and decryption. It employs AES-256 symmetric encryption with robust PBKDF2 key derivation from a user-defined passphrase, ensuring strong data confidentiality.
